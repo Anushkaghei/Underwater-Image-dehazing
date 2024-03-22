@@ -17,7 +17,11 @@ For more details visit: https://li-chongyi.github.io/proj_benchmark.html
 
 ## RESULTS
 
-![image](https://github.com/Anushkaghei/Underwater-Image-dehazing/assets/79694271/9875a498-4b90-4834-9208-e20591c8d585)
+![Untitled Diagram drawio (1)](https://github.com/Anushkaghei/Underwater-Image-dehazing/assets/79694271/3d2f0560-ad84-4c3b-81f1-ec9eb7359684)
+
+
+![gan drawio](https://github.com/Anushkaghei/Underwater-Image-dehazing/assets/79694271/125972aa-285e-48e0-b9a8-828df29a3f4d)
+
 
 
 
