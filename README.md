@@ -7,7 +7,7 @@ In addition to evaluating the performance of Generative Adversarial Networks (GA
 ## DATASET 
 
 The dataset has been taken from 'An Underwater Image Enhancement Benchmark Dataset and Beyond.' 
-The paper can be viewed here: [arXiv version](https://arxiv.org/pdf/1901.05495.pdf). 
+The paper can be viewed here: [[arXiv]](https://arxiv.org/pdf/1901.05495.pdf). 
 
 Raw images : [Google Drive Link](https://drive.google.com/file/d/12W_kkblc2Vryb9zHQ6BfGQ_NKUfXYk13/view)  
 Reference images: [Google Drive Link](https://drive.google.com/file/d/1cA-8CzajnVEL4feBRKdBxjEe6hwql6Z7/view)  
