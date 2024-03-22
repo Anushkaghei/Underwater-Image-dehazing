@@ -29,4 +29,30 @@ For more details visit: https://li-chongyi.github.io/proj_benchmark.html
 ![Untitled Diagram drawio (2)](https://github.com/Anushkaghei/Underwater-Image-dehazing/assets/79694271/fc334729-b3ec-4ab2-906b-b79a4cfa00c1)
 
 
+## STEPS TO RUN:
+
+### PIX2PIX MODEL
+
+```
+Mention code snippets if any for execution here
+```
+
+### UWGAN MODEL
+
+```
+Mention code snippets if any for execution here
+```
+
+### CYCLEGAN MODEL
+
+1. Open the CycleGAN ipynb file in Google Colab.
+2. Change the runtime type to 'Python 3' and the hardware accelerator to 'T4 GPU'.
+3. Execute each code cell sequentially.
+4. Ensure that you grant permission to access your Google Drive account. This step is necessary for loading the dataset.
+
+### U-SHAPED TRANSFORMER MODEL
+
+```
+Mention code snippets if any for execution here
+```
 
