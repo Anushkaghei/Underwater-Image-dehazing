@@ -56,3 +56,9 @@ Mention code snippets if any for execution here
 Mention code snippets if any for execution here
 ```
 
+### Evaluation metrics
+
+1. Open the evaluation_metrics ipynb file in Google Colab.
+2. Connect to a hosted runtime
+3. Change the file paths for your raw, generated and reference images.
+4. Execute each code cell sequentially.
