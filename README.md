@@ -1,4 +1,4 @@
-# Systematic Analysis of Underwater Image Enhancement and Object Detection
+# Systematic Analysis of Underwater Image Dehazing and Object Detection
 
 Underwater environments pose significant challenges to imaging systems due to factors like light attenuation and suspended particles, leading to poor visibility. Addressing these challenges is crucial for various applications such as marine research and underwater surveillance. Generative Adversarial Networks (GANs) offer a promising solution for enhancing underwater imagery by effectively dehazing images and improving object detection accuracy.
 
