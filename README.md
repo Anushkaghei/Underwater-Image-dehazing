@@ -1,8 +1,9 @@
-# Systematic Analysis of Underwater Image Dehazing and Object Detection
+# Systematic Analysis of Underwater Image Dehazing and Object Detection [(link to the published paper)](https://ieeexplore.ieee.org/document/10744716)
 
 Underwater environments pose significant challenges to imaging systems due to factors like light attenuation and suspended particles, leading to poor visibility. Addressing these challenges is crucial for various applications such as marine research and underwater surveillance. Generative Adversarial Networks (GANs) offer a promising solution for enhancing underwater imagery by effectively dehazing images and improving object detection accuracy.
 
 In addition to evaluating the performance of Generative Adversarial Networks (GANs) for image dehazing, this study extends its analysis to underwater object detection, particularly on marine animals. Detecting and tracking marine animals in underwater environments are critical for various applications, including ecological monitoring, biodiversity assessment, and marine conservation efforts. However, the challenges posed by poor visibility and environmental conditions make this task inherently complex. Due to noise, distortion, and occlusions, traditional object detection methods often struggle to accurately identify and localize marine animals in underwater imagery.
+
 
 ## DATASET 
 
