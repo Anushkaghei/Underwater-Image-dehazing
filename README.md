@@ -14,7 +14,6 @@ Raw images : [Google Drive Link](https://drive.google.com/file/d/12W_kkblc2Vryb9
 Reference images: [Google Drive Link](https://drive.google.com/file/d/1cA-8CzajnVEL4feBRKdBxjEe6hwql6Z7/view)  
 Testing/Challenge images: [Google Drive Link](https://drive.google.com/file/d/1Ew_r83nXzVk0hlkfuomWqsAIxuq6kaN4/view)   
 
-For more details visit: https://li-chongyi.github.io/proj_benchmark.html
 
 ## RESULTS
 
